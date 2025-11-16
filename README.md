@@ -2,14 +2,8 @@
 
 # **URL:**
 
-#### **BBQ Planner web link hosted on Railway:**
-[https://t3a2-b-front-end-production.up.railway.app/](https://t3a2-b-front-end-production.up.railway.app/)
-
 #### **BBQ Planner Front-end Github link to source code:**
 [https://github.com/dobbbo/T3A2-B-front-end](https://github.com/dobbbo/T3A2-B-front-end)
-
-#### **BBQ Planner API web link hosted on Railway:**
-[https://t3a2-b-back-end-production.up.railway.app](https://t3a2-b-back-end-production.up.railway.app)
 
 #### **BBQ Planner Back-end Github link to source code:**
 [https://github.com/Guscosta88/T3A2-B-back-end](https://github.com/Guscosta88/T3A2-B-back-end)
